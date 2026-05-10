@@ -1,0 +1,8 @@
+tensorflow
+tensorflowjs
+pandas
+numpy
+scikit-learn
+split-folders
+matplotlib
+Pillow
